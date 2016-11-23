@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="bcprov-ext-jdk15on-149">
+    <CLASSES>
+      <root url="jar://C:/Other Things/jar包/security/bcprov-ext-jdk15on-149.jar!/" />
+      <root url="jar://C:/Other Things/jar包/security/bcprov-jdk15on-149.jar!/" />
+      <root url="jar://C:/Other Things/jar包/security/commons-codec-1.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
